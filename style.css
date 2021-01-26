@@ -1,0 +1,35 @@
+body{
+    background-color: orangered;
+    color: black;    
+}
+
+.heading{
+    width: 80%;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 5px dotted whitesmoke;
+}
+
+.NOO{
+    color: rgb(0, 255, 242);
+    box-shadow: 8px 8px 14px black;
+    font-size: 25px;
+}
+
+#RON{
+    font-size: 25px;
+}
+
+#ROA{
+    font-size: 25px;
+}
+
+button{
+    box-shadow: 10px 8px 5px rgb(0, 0, 0);
+    border-radius: 100%;
+}
